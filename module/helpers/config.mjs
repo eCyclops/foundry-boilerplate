@@ -1,23 +1,23 @@
-export const BOILERPLATE = {};
+export const ADND1EOSS = {};
 
 /**
  * The set of Ability Scores used within the sytem.
  * @type {Object}
  */
- BOILERPLATE.abilities = {
-  "str": "BOILERPLATE.AbilityStr",
-  "dex": "BOILERPLATE.AbilityDex",
-  "con": "BOILERPLATE.AbilityCon",
-  "int": "BOILERPLATE.AbilityInt",
-  "wis": "BOILERPLATE.AbilityWis",
-  "cha": "BOILERPLATE.AbilityCha"
+ ADND1EOSS.abilities = {
+  "str": "ADND1EOSS.AbilityStr",
+  "dex": "ADND1EOSS.AbilityDex",
+  "con": "ADND1EOSS.AbilityCon",
+  "int": "ADND1EOSS.AbilityInt",
+  "wis": "ADND1EOSS.AbilityWis",
+  "cha": "ADND1EOSS.AbilityCha"
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  "str": "BOILERPLATE.AbilityStrAbbr",
-  "dex": "BOILERPLATE.AbilityDexAbbr",
-  "con": "BOILERPLATE.AbilityConAbbr",
-  "int": "BOILERPLATE.AbilityIntAbbr",
-  "wis": "BOILERPLATE.AbilityWisAbbr",
-  "cha": "BOILERPLATE.AbilityChaAbbr"
+ADND1EOSS.abilityAbbreviations = {
+  "str": "ADND1EOSS.AbilityStrAbbr",
+  "dex": "ADND1EOSS.AbilityDexAbbr",
+  "con": "ADND1EOSS.AbilityConAbbr",
+  "int": "ADND1EOSS.AbilityIntAbbr",
+  "wis": "ADND1EOSS.AbilityWisAbbr",
+  "cha": "ADND1EOSS.AbilityChaAbbr"
 };

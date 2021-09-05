@@ -1,22 +1,22 @@
 {
-  "BOILERPLATE.AbilityStr": "Strength",
-  "BOILERPLATE.AbilityCon": "Constitution",
-  "BOILERPLATE.AbilityDex": "Dexterity",
-  "BOILERPLATE.AbilityInt": "Intelligence",
-  "BOILERPLATE.AbilityWis": "Wisdom",
-  "BOILERPLATE.AbilityCha": "Charisma",
+  "ADND1EOSS.AbilityStr": "Strength",
+  "ADND1EOSS.AbilityCon": "Constitution",
+  "ADND1EOSS.AbilityDex": "Dexterity",
+  "ADND1EOSS.AbilityInt": "Intelligence",
+  "ADND1EOSS.AbilityWis": "Wisdom",
+  "ADND1EOSS.AbilityCha": "Charisma",
 
-  "BOILERPLATE.AbilityStrAbbr": "str",
-  "BOILERPLATE.AbilityConAbbr": "con",
-  "BOILERPLATE.AbilityDexAbbr": "dex",
-  "BOILERPLATE.AbilityIntAbbr": "int",
-  "BOILERPLATE.AbilityWisAbbr": "wis",
-  "BOILERPLATE.AbilityChaAbbr": "cha",
+  "ADND1EOSS.AbilityStrAbbr": "str",
+  "ADND1EOSS.AbilityConAbbr": "con",
+  "ADND1EOSS.AbilityDexAbbr": "dex",
+  "ADND1EOSS.AbilityIntAbbr": "int",
+  "ADND1EOSS.AbilityWisAbbr": "wis",
+  "ADND1EOSS.AbilityChaAbbr": "cha",
 
-  "BOILERPLATE.EffectCreate": "Create Effect",
-  "BOILERPLATE.EffectToggle": "Toggle Effect",
-  "BOILERPLATE.EffectEdit": "Edit Effect",
-  "BOILERPLATE.EffectDelete": "Delete Effect",
+  "ADND1EOSS.EffectCreate": "Create Effect",
+  "ADND1EOSS.EffectToggle": "Toggle Effect",
+  "ADND1EOSS.EffectEdit": "Edit Effect",
+  "ADND1EOSS.EffectDelete": "Delete Effect",
 
-  "BOILERPLATE.Add": "Add"
+  "ADND1EOSS.Add": "Add"
 }

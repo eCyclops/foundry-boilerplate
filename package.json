@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "adnd1eoss",
   "version": "1.0.0",
-  "description": "CSS compiler for the Boilerplate system",
+  "description": "CSS compiler for the ADnD1Eoss system",
   "scripts": {
     "build": "gulp build",
     "compile": "gulp css",

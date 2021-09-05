@@ -1,3 +1,9 @@
+# ADnD1E / OSRIC System
+
+This system is for playing Old School First Edition AD&D Games using the original rules, or OSRIC. It was built using the Boilerplate system for the Foundry Virtual Tabletop program.
+
+I assume the original worked fine. Any changes that introduce breaks are mine.
+
 # Boilerplate System
 
 This system is a boilerplate system that you can use as a starting point for building your own custom systems. It's similar to Simple World-building, but has examples of creating attributes in code rather than dynamically through the UI.
